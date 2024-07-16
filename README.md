@@ -10,7 +10,7 @@ A simple to-do list application built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can view a live demo of the project [here](https://punuvinu2000.github.io/simple-todo-list).
+You can view a live demo of the project [here](https://punuvinu2000.github.io/Simple-To-Do-List).
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ You can view a live demo of the project [here](https://punuvinu2000.github.io/si
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-github-username/simple-todo-list.git
+git clone https://github.com/punuvinu2000/Simple-To-Do-List.git
 ```
 
 2.  Navigate to the project directory:
