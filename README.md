@@ -10,7 +10,7 @@ A simple to-do list application built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can view a live demo of the project [here](https://your-github-username.github.io/simple-todo-list).
+You can view a live demo of the project [here](https://punuvinu2000.github.io/simple-todo-list).
 
 ## Getting Started
 
